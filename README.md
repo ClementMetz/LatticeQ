@@ -1,8 +1,7 @@
 # LatticeQ
 
-This is the user manual for LatticeQ source code from the paper Lattice Quantization
-(ICML 2022 blind submission). This code is strictly reserved for the use of reviewers
-and area chairs of ICML 2022 and should not be distributed.
+This is the user manual for LatticeQ source code from the paper Lattice Quantization https://ieeexplore.ieee.org/document/10137188
+(DATE 2023).
 
 ## Requirements
 
