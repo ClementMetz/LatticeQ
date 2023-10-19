@@ -1,7 +1,7 @@
 # LatticeQ
 
 This is the user manual for LatticeQ source code from the paper Lattice Quantization https://ieeexplore.ieee.org/document/10137188
-(DATE 2023).
+(NeurIPS 2022 ML for Systems workshop, DATE 2023).
 
 ## Requirements
 
